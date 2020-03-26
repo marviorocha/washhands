@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from 'react';\nimport Routes from \"./routes\";","map":{"version":3,"sources":["/home/marviorocha/www/washHand/App/index.js"],"names":["React","Routes"],"mappings":"AAAA,OAAOA,KAAP,MAAkB,OAAlB;AACA,OAAOC,MAAP","sourcesContent":["import React from 'react';\nimport Routes from './routes';\n\n "]},"metadata":{},"sourceType":"module"}

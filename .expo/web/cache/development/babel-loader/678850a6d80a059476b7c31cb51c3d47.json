@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react-native-web/dist/index\";\nimport App from \"./app/\";","map":{"version":3,"sources":["/home/marviorocha/www/washHand/App.js"],"names":["React","App"],"mappings":"OAAOA,K;AACP,OAAOC,GAAP","sourcesContent":["import React from 'react-native';\nimport App from './app/';\n\n"]},"metadata":{},"sourceType":"module"}
